@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "459480256867",
+    "project_id": "rotary-624c0",
+    "storage_bucket": "rotary-624c0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:459480256867:android:5984f007f874927b8f8356",
+        "android_client_info": {
+          "package_name": "com.new_rotary"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAEWFzND41G1DaXG8dPFwPB5BwtO97WKs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

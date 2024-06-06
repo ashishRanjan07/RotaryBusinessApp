@@ -1,0 +1,38 @@
+[
+    {
+        "id":1,
+        "name":"Ashish Ranjan",
+        "time":"9:35 AM",
+        "type":"viewed"
+    },
+    {
+        "id":2,
+        "name":"Devanshu Raturi",
+        "time":"2:35 AM",
+        "type":"call"
+    },
+    {
+        "id":3,
+        "name":"Vipul",
+        "time":"1:35 AM",
+        "type":"call"
+    },
+    {
+        "id":4,
+        "name":"Harrish",
+        "time":"10:35 AM",
+        "type":"viewed"
+    },
+    {
+        "id":5,
+        "name":"Sumit Kumar",
+        "time":"6:35 AM",
+        "type":"call"
+    },
+    {
+        "id":6,
+        "name":"Maynak Kumar",
+        "time":"10:35 PM",
+        "type":"viewed"
+    }
+]
